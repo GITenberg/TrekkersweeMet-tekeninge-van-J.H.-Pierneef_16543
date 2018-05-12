@@ -1,0 +1,33 @@
+_repo: TrekkersweeMet-tekeninge-van-J.H.-Pierneef_16543
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Totius
+    aliases:
+    - Du Toit, J. D. (Jacob Daniel)
+    - Toit, J. D. du
+    - Toit, Jacob Daniel du
+    birthdate: 1877
+    deathdate: 1953
+    gutenberg_agent_id: '6782'
+    url: http://www.gutenberg.org/2009/agents/6782
+description: ''
+gutenberg_bookshelf: South Africa
+gutenberg_issued: '2005-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16543'
+language: af
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Afrikaans poetry'
+- !lcc 'PT'
+title: 'Trekkerswee
+
+  Met tekeninge van J.H. Pierneef'
+url: http://www.gutenberg.org/ebooks/16543
